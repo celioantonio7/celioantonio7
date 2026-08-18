@@ -97,15 +97,15 @@
 ## 📊 Estatísticas e Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celioantonio7&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=celioantonio7&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celioantonio7&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8" alt="Linguagens Mais Utilizadas"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=celioantonio7&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8" alt="Linguagens Mais Utilizadas"/>
   
   <br>
 
-  <img src="https://streak-stats.demolab.com?user=celioantonio7&theme=transparent&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celioantonio7&theme=transparent&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 <br>

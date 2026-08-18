@@ -1,125 +1,87 @@
-# 👨‍💻 Célio Antônio
-
 <div align="center">
 
-### Full Stack Developer
+# CÉLIO ANTÔNIO
 
-**React • TypeScript • JavaScript • Node.js • Supabase • PostgreSQL**
+### FULL STACK DEVELOPER
 
-Construindo aplicações web, SaaS e sistemas de gestão para resolver problemas reais.
+**React · TypeScript · Node.js · PostgreSQL · Supabase**
 
-<br/>
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-celioantonio7-181717?style=for-the-badge\&logo=github)](https://github.com/celioantonio7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Célio%20Antônio-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-111111?style=for-the-badge\&logo=vercel)](https://happycashsite.com.br)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://happycashsite.com.br)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:celioantonio.dev@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  CÉLIO ANTÔNIO                                               │
+│                                                              │
+│  Full Stack Developer                                        │
+│                                                              │
+│  Building software that solves real business problems.      │
+│                                                              │
+│  React / TypeScript / Node / PostgreSQL / Cloud              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-Sou desenvolvedor Full Stack focado na criação de aplicações web e sistemas de gestão.
+## `01 / ABOUT`
 
-Tenho interesse principalmente em **arquitetura de aplicações, SaaS, bancos de dados, APIs, automação e desenvolvimento de produtos digitais**.
+Desenvolvedor Full Stack focado em transformar processos de negócio em software.
 
-Meu foco é transformar necessidades de negócio em soluções funcionais, escaláveis e fáceis de utilizar.
+Construo aplicações completas — da interface ao banco de dados — trabalhando principalmente com **React, TypeScript, Node.js, PostgreSQL e Supabase**.
+
+Tenho experiência prática desenvolvendo **SaaS, ERP, PDV, dashboards, integrações e aplicações desktop/mobile**.
+
+Meu interesse está em construir produtos que sejam mais do que demonstrações técnicas: **software que realmente resolve problemas.**
+
+---
+
+## `02 / STACK`
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                    CÉLIO ANTÔNIO                        │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  Full Stack Developer                                   │
-│                                                         │
-│  Frontend      → React + TypeScript                     │
-│  Backend       → Node.js + APIs                         │
-│  Database      → PostgreSQL + Supabase                  │
-│  Deployment    → Vercel + Docker                       │
-│  Desktop       → Electron                               │
-│  Mobile        → React Native / Expo                    │
-│                                                         │
-│  Focus         → SaaS • ERP • Business Systems          │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+FRONTEND
+React              ████████████████████
+TypeScript         ████████████████████
+JavaScript         ██████████████████░░
+HTML / CSS         ██████████████████░░
+Tailwind           ███████████████░░░░░
+
+BACKEND
+Node.js            ██████████████████░░
+APIs               ██████████████████░░
+Authentication     ████████████████░░░░
+
+DATABASE
+PostgreSQL         ████████████████████
+Supabase           ████████████████████
+SQL                ██████████████████░░
+
+APPLICATIONS
+Web                ████████████████████
+Desktop / Electron  ███████████████░░░░░
+Mobile             █████████████░░░░░░░
+
+INFRASTRUCTURE
+Git / GitHub       ████████████████████
+Docker             ███████████████░░░░░
+Vercel             ██████████████████░░
 ```
 
 ---
 
-# ⚡ Tech Stack
+## `03 / SELECTED WORK`
 
-## Frontend
+### `HAPPYCASH`
 
-<div align="left">
+**ERP / PDV · SaaS · Business Management**
 
-![React](https://img.shields.io/badge/React-2026?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-2026?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-2026?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-
-![HTML5](https://img.shields.io/badge/HTML5-2026?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-
-![CSS3](https://img.shields.io/badge/CSS3-2026?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2026?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
-
-</div>
-
-## Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-2026?style=for-the-badge\&logo=node.js\&logoColor=339933)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2026?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-
-![Supabase](https://img.shields.io/badge/Supabase-2026?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
-
-![Prisma](https://img.shields.io/badge/Prisma-2026?style=for-the-badge\&logo=prisma\&logoColor=white)
-
-![Redis](https://img.shields.io/badge/Redis-2026?style=for-the-badge\&logo=redis\&logoColor=DC382D)
-
-## Desktop & Mobile
-
-![Electron](https://img.shields.io/badge/Electron-2026?style=for-the-badge\&logo=electron\&logoColor=47848F)
-
-![React Native](https://img.shields.io/badge/React_Native-2026?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-![Expo](https://img.shields.io/badge/Expo-2026?style=for-the-badge\&logo=expo\&logoColor=white)
-
-## DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-2026?style=for-the-badge\&logo=git\&logoColor=F05032)
-
-![GitHub](https://img.shields.io/badge/GitHub-2026?style=for-the-badge\&logo=github\&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2026?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-
-![Vercel](https://img.shields.io/badge/Vercel-2026?style=for-the-badge\&logo=vercel\&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-## 💰 HappyCash
-
-### ERP / PDV para pequenos negócios
-
-Sistema de gestão desenvolvido para centralizar operações de pequenos estabelecimentos.
-
-### Principais módulos
-
-* 🧾 PDV
-* 📦 Controle de estoque
-* 💰 Gestão financeira
-* 📊 Relatórios
-* 👥 Clientes
-* 🧮 Controle de preços
-* 📴 Funcionamento offline
-* 🖥️ Aplicação desktop
-* 📱 Aplicação mobile
-
-### Stack
+Sistema de gestão desenvolvido para pequenos negócios.
 
 ```text
 React
@@ -127,31 +89,21 @@ TypeScript
 Supabase
 PostgreSQL
 Electron
-Node.js
 ```
 
-🌐 **Website:** https://happycashsite.com.br
+**Principais áreas**
+
+`PDV` · `Estoque` · `Clientes` · `Financeiro` · `Relatórios` · `Offline`
+
+→ https://happycashsite.com.br
 
 ---
 
-# 📊 GsEmprestimos
+### `GSEMPRESTIMOS`
 
-### Plataforma de gestão de operações de crédito
+**Financial Management Platform**
 
-Aplicação web desenvolvida para gerenciamento de clientes, operações, parcelas, pagamentos e informações financeiras.
-
-### Principais funcionalidades
-
-* 👥 Gestão de clientes
-* 💰 Operações de crédito
-* 📅 Controle de vencimentos
-* 💳 Registro de pagamentos
-* 📑 Controle de parcelas
-* 📊 Dashboard
-* 🔐 Autenticação
-* 🗄️ Banco de dados PostgreSQL
-
-### Stack
+Aplicação web para gerenciamento de operações de crédito, clientes, parcelas, pagamentos e dashboards financeiros.
 
 ```text
 React
@@ -161,209 +113,107 @@ PostgreSQL
 Vite
 ```
 
+**Principais áreas**
+
+`Clientes` · `Operações` · `Parcelas` · `Pagamentos` · `Dashboard`
+
 ---
 
-# 🏗️ Arquitetura
-
-Gosto de trabalhar pensando não apenas na interface, mas também na estrutura da aplicação.
-
-Um exemplo simplificado de arquitetura utilizada nos meus projetos:
+## `04 / HOW I BUILD`
 
 ```text
-                    ┌───────────────────┐
-                    │      CLIENTE      │
-                    │                   │
-                    │  Browser / Mobile │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │     FRONTEND      │
-                    │                   │
-                    │ React             │
-                    │ TypeScript        │
-                    │ Vite              │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │       API         │
-                    │                   │
-                    │ Node.js           │
-                    │ REST / Services   │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │     SUPABASE      │
-                    │                   │
-                    │ Authentication    │
-                    │ PostgreSQL        │
-                    │ Storage           │
-                    └───────────────────┘
+                    ┌─────────────────┐
+                    │     CLIENT      │
+                    │                 │
+                    │ Web / Desktop   │
+                    │ Mobile          │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │    FRONTEND     │
+                    │                 │
+                    │ React           │
+                    │ TypeScript      │
+                    │ Vite            │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │   APPLICATION   │
+                    │                 │
+                    │ Business Logic  │
+                    │ APIs            │
+                    │ Auth            │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │    DATABASE     │
+                    │                 │
+                    │ PostgreSQL      │
+                    │ Supabase        │
+                    └─────────────────┘
 ```
 
 ---
 
-# 🧠 O que venho desenvolvendo
+## `05 / CURRENT FOCUS`
 
 ```text
-Frontend
-├── React
-├── TypeScript
-├── JavaScript
-├── Tailwind CSS
-└── Responsive UI
-
-Backend
-├── Node.js
-├── APIs
-├── Authentication
-└── Business Logic
-
-Database
-├── PostgreSQL
-├── Supabase
-├── SQL
-└── Data Modeling
-
-Applications
-├── SaaS
-├── ERP
-├── PDV
-├── Desktop
-└── Mobile
-
-Infrastructure
-├── Git
-├── GitHub
-├── Docker
-└── Vercel
+→ Full Stack Development
+→ Software Architecture
+→ PostgreSQL & Data Modeling
+→ APIs & Integrations
+→ SaaS Architecture
+→ Cloud & Deployment
+→ Performance
+→ Security
 ```
 
 ---
 
-# 📈 GitHub Analytics
+## `06 / GITHUB`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=celioantonio7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=celioantonio7&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&bg_color=00000000"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celioantonio7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celioantonio7&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e&bg_color=00000000"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Graph
+## `07 / CONTRIBUTIONS`
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=celioantonio7\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=celioantonio7\&theme=transparent\&hide_border=true\&ring=58a6ff\&fire=58a6ff\&currStreakLabel=58a6ff)
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/celioantonio7/celioantonio7/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 💻 Developer Terminal
+## `08 / CONTACT`
 
 ```text
-celio@dev:~$ whoami
+EMAIL
+celioantonio.dev@gmail.com
 
-Célio Antônio
+GITHUB
+github.com/celioantonio7
 
-celio@dev:~$ role
-
-Full Stack Developer
-
-celio@dev:~$ stack
-
-React
-TypeScript
-Node.js
-Supabase
-PostgreSQL
-
-celio@dev:~$ focus
-
-SaaS
-ERP
-Business Systems
-APIs
-Architecture
-
-celio@dev:~$ status
-
-Building 🚀
+PORTFOLIO
+happycashsite.com.br
 ```
 
 ---
 
-# 🎯 Atualmente
-
-```text
-🔭 Desenvolvendo       → SaaS e sistemas de gestão
-
-🌱 Estudando           → Arquitetura de software
-                         Backend
-                         Cloud
-                         DevOps
-
-💡 Interesse           → Sistemas escaláveis
-                         Automação
-                         Integrações
-                         Produtos SaaS
-
-🎯 Objetivo            → Evoluir como desenvolvedor
-                         Full Stack
-```
-
----
-
-# 📚 Áreas de interesse
-
-* Software Architecture
-* Full Stack Development
-* SaaS
-* ERP Systems
-* APIs
-* PostgreSQL
-* Cloud Computing
-* DevOps
-* Application Security
-* Automation
-* System Integration
-
----
-
-# 📫 Contato
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-celioantonio7-181717?style=for-the-badge\&logo=github)](https://github.com/celioantonio7)
+### BUILDING SOFTWARE. SOLVING PROBLEMS.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
-
-[![Email](https://img.shields.io/badge/Email-celioantonio.dev@gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:celioantonio.dev@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Transformando ideias em software.
-
-**Code • Build • Learn • Repeat**
+`React` · `TypeScript` · `Node.js` · `PostgreSQL`
 
 </div>

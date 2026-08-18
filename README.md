@@ -18,7 +18,7 @@
 
   <br><br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Desenvolvedor+Full+Stack+Apaixonado+por+Criar;Criador+de+SaaS+e+sistemas+de+gestão;Especialista+em+React,+TypeScript,+Node.js+e+PostgreSQL;Transformando+problemas+complexos+em+soluções+elegantes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Desenvolvedor+Full+Stack+Apaixonado+por+Criar;Criador+de+SaaS+e+sistemas+de+gest%C3%A3o;Especialista+em+React%2C+TypeScript%2C+Node.js+e+PostgreSQL;Transformando+problemas+complexos+em+solu%C3%A7%C3%B5es+elegantes" alt="Typing SVG" />
   
   <br>
   
